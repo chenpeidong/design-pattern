@@ -8,6 +8,9 @@ import site.syso.strategy.behavior.quack.impl.Squeak;
 import site.syso.strategy.duck.MallardDuck;
 import site.syso.strategy.duck.ModelDuck;
 
+/**
+ * 策略模式
+ */
 public class Test {
 
     public static void main(String[] args) {
