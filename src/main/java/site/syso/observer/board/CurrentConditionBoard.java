@@ -3,10 +3,6 @@ package site.syso.observer.board;
 import site.syso.observer.observer.Observer;
 import site.syso.observer.subject.Subject;
 
-/**
- * @author chenpeidong
- * @date 2020/2/27 下午5:23
- */
 public class CurrentConditionBoard implements Board, Observer {
 
     private Subject subject;
